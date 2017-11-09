@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Own Pages"
+title:  "My Own Page"
 date:   2017-11-09 21:00:00
 categories: stuff
 ---

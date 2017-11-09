@@ -16,9 +16,8 @@
 title: Your awesome title
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my own pages at Jekyll_plugins github repository. It is my new attempt to create tutorial documentation over here. 
-  If you are new to learn Jekyll plugins then I hope you will find you start-up here. Thanks
-baseurl: "" # the subpath of your site, e.g. /blog
+  Welcome to my own pages.
+baseurl: "https://mayurikm.github.io/jekyll_plugins/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -40,3 +39,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+port : 8080

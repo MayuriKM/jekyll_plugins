@@ -8,4 +8,4 @@ Hello, This is static Jekyll site with default theme "minima". As I have created
 Let's go and enjoy learnings. 
 Good Luck to ME :)
 
-If you want to know my steps of precticing then visit my page : tutorial.md
+If you want to know my steps of precticing then visit my page : tutorial
